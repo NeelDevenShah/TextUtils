@@ -103,4 +103,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-For any queries or support, feel free to contact the project maintainer at youremail@example.com.
+For any queries or support, feel free to contact the project maintainer at neeldevenshah@gmail.com.
